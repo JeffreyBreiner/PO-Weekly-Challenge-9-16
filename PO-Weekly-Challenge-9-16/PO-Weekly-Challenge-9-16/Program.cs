@@ -33,7 +33,7 @@ namespace PO_Weekly_Challenge_9_16
             List<int> primes = new List<int>();
             string result = "";
 
-            for (int i = 2; i <= num; i++)
+            for (int i = 2; i <= num; i++)  //finding the prime factors
             {
                 int power = 0;
                 while (num % i == 0 && isPrime(i))
@@ -52,7 +52,7 @@ namespace PO_Weekly_Challenge_9_16
                 }
             }
 
-            for (int i = 0; i < primes.Count; i++)
+            for (int i = 0; i < primes.Count; i++)      //building the output string
             {
                 if (i == 0)
                 {
