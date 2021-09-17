@@ -1,0 +1,16 @@
+C:\Users\jeffr\source\repos\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\bin\Debug\net5.0\PO-Weekly-Challenge-9-16.exe
+C:\Users\jeffr\source\repos\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\bin\Debug\net5.0\PO-Weekly-Challenge-9-16.deps.json
+C:\Users\jeffr\source\repos\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\bin\Debug\net5.0\PO-Weekly-Challenge-9-16.runtimeconfig.json
+C:\Users\jeffr\source\repos\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\bin\Debug\net5.0\PO-Weekly-Challenge-9-16.runtimeconfig.dev.json
+C:\Users\jeffr\source\repos\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\bin\Debug\net5.0\PO-Weekly-Challenge-9-16.dll
+C:\Users\jeffr\source\repos\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\bin\Debug\net5.0\ref\PO-Weekly-Challenge-9-16.dll
+C:\Users\jeffr\source\repos\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\bin\Debug\net5.0\PO-Weekly-Challenge-9-16.pdb
+C:\Users\jeffr\source\repos\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\obj\Debug\net5.0\PO-Weekly-Challenge-9-16.csprojAssemblyReference.cache
+C:\Users\jeffr\source\repos\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\obj\Debug\net5.0\PO-Weekly-Challenge-9-16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\source\repos\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\obj\Debug\net5.0\PO-Weekly-Challenge-9-16.AssemblyInfoInputs.cache
+C:\Users\jeffr\source\repos\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\obj\Debug\net5.0\PO-Weekly-Challenge-9-16.AssemblyInfo.cs
+C:\Users\jeffr\source\repos\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\obj\Debug\net5.0\PO-Weekly-Challenge-9-16.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\source\repos\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\obj\Debug\net5.0\PO-Weekly-Challenge-9-16.dll
+C:\Users\jeffr\source\repos\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\obj\Debug\net5.0\ref\PO-Weekly-Challenge-9-16.dll
+C:\Users\jeffr\source\repos\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\obj\Debug\net5.0\PO-Weekly-Challenge-9-16.pdb
+C:\Users\jeffr\source\repos\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\PO-Weekly-Challenge-9-16\obj\Debug\net5.0\PO-Weekly-Challenge-9-16.genruntimeconfig.cache
